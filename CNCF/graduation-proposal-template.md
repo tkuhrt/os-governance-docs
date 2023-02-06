@@ -4,6 +4,9 @@ title: Project Graduation Proposal
 parent: CNCF Governing Documents
 grand_parent: Samples
 ---
+{: .note }
+This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+
 # [Project] Graduation Proposal
 
 _**Insert introduction. See previous proposals for examples. This section should address from a broad perspective why the project feels they are ready to graduation and can state any major accomplishments or milestones.**_

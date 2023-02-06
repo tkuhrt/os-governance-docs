@@ -5,6 +5,9 @@ parent: CNCF Governing Documents
 grand_parent: Samples
 ---
 
+{: .note }
+This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+
 # CNCF Project Proposal Process v1.5
 
 ## Introduction 

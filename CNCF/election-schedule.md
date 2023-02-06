@@ -4,6 +4,9 @@ title: TOC Election Schedule
 parent: CNCF Governing Documents
 grand_parent: Samples
 ---
+{: .note }
+This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+
 **TOC Election Schedule v1.2**
 
 This page lays out the election schedule for the CNCF’s Technical Oversight Committee (TOC) to implement the requirements of the CNCF [charter](https://github.com/cncf/foundation/blob/main/charter.md), including:

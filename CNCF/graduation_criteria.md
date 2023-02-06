@@ -4,6 +4,9 @@ title: Project Graduation Criteria
 parent: CNCF Governing Documents
 grand_parent: Samples
 ---
+{: .note }
+This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+
 ## CNCF Graduation Criteria v1.3
 
 Every CNCF project has an associated maturity level. Proposed CNCF projects should state their preferred maturity level. A two-thirds supermajority is required for a project to be accepted as incubating or graduated. If there is not a supermajority of votes to enter as a graduated project, then any graduated votes are recounted as votes to enter as an incubating project. If there is not a supermajority of votes to enter as an incubating project, then any graduated or incubating votes are recounted as sponsorship to enter as a sandbox project. If there is not enough sponsorship to enter as a sandbox stage project, the project is rejected. This voting process is called fallback voting.

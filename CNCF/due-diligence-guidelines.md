@@ -4,6 +4,9 @@ title: Due Diligence Guidelines
 parent: CNCF Governing Documents
 grand_parent: Samples
 ---
+{: .note }
+This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+
 # Due Diligence Guidelines
 
 This page provides guidelines to those leading or contributing to due

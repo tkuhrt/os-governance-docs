@@ -4,6 +4,9 @@ title: Sandbox Annual Review
 parent: CNCF Governing Documents
 grand_parent: Samples
 ---
+{: .note }
+This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+
 # Sandbox annual review 
 
 Sandbox projects are subject to an annual review by the TOC. This is intended to be a lightweight process to ensure that projects are on track, and getting the support they need.

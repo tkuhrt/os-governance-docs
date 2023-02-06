@@ -6,6 +6,9 @@ grand_parent: Samples
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+{: .note }
+This document was copied from https://toc.hyperledger.org/governing-documents on February 6, 2023.
+
 # Release Taxonomy
 
 Releases at Hyperledger can be done either according to [SemVer](#SemVer) or via [CalVer](#CalVer).

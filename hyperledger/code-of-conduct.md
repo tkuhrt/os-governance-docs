@@ -6,6 +6,9 @@ grand_parent: Samples
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+{: .note }
+This document was copied from https://toc.hyperledger.org/governing-documents on February 6, 2023.
+
 # Code of Conduct
 
 Hyperledger is a collaborative project at The Linux Foundation. It is an open-source and open community project where participants choose to work together, and in that process experience differences in language, location, nationality, and experience. In such a diverse environment, misunderstandings and disagreements happen, which in most cases can be resolved informally. In rare cases, however, behavior can intimidate, harass, or otherwise disrupt one or more people in the community, which Hyperledger will not tolerate.

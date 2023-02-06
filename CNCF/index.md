@@ -5,6 +5,9 @@ parent: Samples
 has_children: true
 has_toc: true
 ---
+{: .note }
+This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+
 # I. Overview
 
 This policy describes the Cloud Native Computing Foundation (CNCF) project life cycle process, from sandbox to archival and more. It describes the stages a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the Annual Review Process through which those changes will be evaluated and made.

@@ -6,6 +6,9 @@ grand_parent: Samples
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+{: .note }
+This document was copied from https://toc.hyperledger.org/governing-documents on February 6, 2023.
+
 # Inactivity Policies
 
 As part of the normal lifecycle of a project codebases and maintainers come and go. This document formalizes a Hyperledger wide policy for moving maintainers to emeritus status when a project does not have an explicit policy of their own, and the responsibilities of the Technical Oversight Committee (TOC), Hyperledger Foundation staff, and maintainers in this process.

@@ -6,6 +6,9 @@ grand_parent: Samples
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+{: .note }
+This document was copied from https://toc.hyperledger.org/governing-documents on February 6, 2023.
+
 # Project Lifecycle
 
 The term "project" within Hyperledger refers to a
