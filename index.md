@@ -7,6 +7,6 @@ has_toc: true
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Open Source Governance Samples
+# Samples
 
 This site contains a collection of open source governance documents from the following projects.
