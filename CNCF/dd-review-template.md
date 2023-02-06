@@ -5,7 +5,7 @@ parent: CNCF Governing Documents
 grand_parent: Samples
 ---
 {: .note }
-This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+> This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
 
 # Due Diligence Project Review Template
 This page provides a template to help those leading or contributing to due diligence exercises performed by or on behalf of the Technical Oversight Committee of the CNCF. Please also read the [Due Diligence Guidelines](https://github.com/cncf/toc/blob/main/process/due-diligence-guidelines.md). 

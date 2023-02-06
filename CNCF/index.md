@@ -6,7 +6,7 @@ has_children: true
 has_toc: true
 ---
 {: .note }
-This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
+> This document was copied from [cncf/toc](https://github.com/cncf/toc/tree/main/process) on February 6, 2023.
 
 # I. Overview
 
