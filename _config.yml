@@ -1,4 +1,3 @@
-#theme: just-the-docs
 title: "Open Source Governance Documents"
 show_downloads: "false"
 has_children: true
@@ -9,3 +8,8 @@ callouts:
   note:
     title: Note
     color: yellow
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
