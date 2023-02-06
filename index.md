@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Source Governance Samples
+title: Samples
 nav_order: 1
 has_children: true
 has_toc: true
@@ -9,4 +9,4 @@ has_toc: true
 
 # Open Source Governance Samples
 
-This site contains a collection of open source governance documents.
+This site contains a collection of open source governance documents from the following projects.

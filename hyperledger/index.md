@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Governing Documents
-parent: Open Source Governance Samples
+parent: Samples
 has_children: true
 has_toc: true
 ---

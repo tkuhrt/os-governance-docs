@@ -2,7 +2,7 @@
 layout: default
 title: Maintainer and Repository Inactivity
 parent: Hyperledger Governing Documents
-grand_parent: Open Source Governance Samples
+grand_parent: Samples
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
